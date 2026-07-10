@@ -1,0 +1,13 @@
+pypdf>=5.0.0
+
+# CHANGE THIS LINE:
+pinecone>=6.0.0
+
+# LLM & Embedding Integrations (OpenRouter / OpenAI Spec)
+openai>=1.14.0
+python-dotenv>=1.0.1
+
+# Backend API Framework
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+pydantic>=2.6.0
